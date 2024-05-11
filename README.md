@@ -56,7 +56,7 @@
 ![Image alt](https://github.com/niko0la/-1-Disaster-recovery-Keepalived-Nikolay-S.-1-Disaster-recovery-Keepalived-/blob/main/2-2.png)
 
 ------
-
+https://github.com/niko0la/-1-Disaster-recovery-Keepalived-Nikolay-S.-1-Disaster-recovery-Keepalived-/blob/main/keepalived.conf
 ## Дополнительные задания со звёздочкой*
 
 Эти задания дополнительные. Их можно не выполнять. На зачёт это не повлияет. Вы можете их выполнить, если хотите глубже разобраться в материале.
